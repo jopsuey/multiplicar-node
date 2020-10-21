@@ -1,0 +1,16 @@
+{
+  "name": "01-base-node",
+  "version": "1.0.0",
+  "description": "Descripcion ejemplo que hace esta app. Esta app usa linea de comando",
+  "main": "app.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Quiroz",
+  "license": "ISC"
+}
